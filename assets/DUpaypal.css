@@ -1,0 +1,39 @@
+<style TYPE="text/css">
+
+DIV.Links		A   	       	{color:	#006699; text-decoration:none}
+DIV.Links		A:link			{color:	#003399; text-decoration:none}
+DIV.Links		A:visited		{color:	#003399; text-decoration:none}
+DIV.Links		A:hover 		{color: #FF0000; text-decoration:underline}
+
+</style>.text {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+}
+.textBold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-weight: bold;
+}
+.textGray {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	color: #999999;
+}
+.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+}
+.bgHeader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	font-weight: bold;
+	color: #003399;
+	background-color: #3399FF;
+	background-image: url(bg_banner.gif);
+
+}
+.form {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: xx-small;
+	color: #003399;
+}
